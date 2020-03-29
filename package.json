@@ -50,10 +50,8 @@
   "homepage": "https://clark.fit",
   "keywords": [
     "gatsby",
-    "ghost",
-    "gallery",
     "blog",
-    "starter"
+    "react"
   ],
   "license": "MIT",
   "main": "n/a",
@@ -73,5 +71,8 @@
     "hooks": {
       "pre-commit": "pretty-quick --staged"
     }
-  }
+  },
+  "browserslist": [
+    "defaults"
+  ]
 }
