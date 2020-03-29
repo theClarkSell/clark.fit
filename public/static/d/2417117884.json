@@ -1,0 +1,11 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "title": "Clark Sell",
+        "description": "A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery",
+        "author": "Clark Sell"
+      }
+    }
+  }
+}

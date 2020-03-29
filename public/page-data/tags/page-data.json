@@ -1,0 +1,22 @@
+{
+  "componentChunkName": "component---src-pages-tags-js",
+  "path": "/tags/",
+  "webpackCompilationHash": "",
+  "result": {
+    "data": {
+      "site": { "siteMetadata": { "title": "Clark Sell" } },
+      "allMarkdownRemark": {
+        "distinct": [
+          "blue",
+          "color",
+          "future-funk",
+          "green",
+          "pink",
+          "retrowave",
+          "vaporwave"
+        ]
+      }
+    },
+    "pageContext": { "isCreatedByStatefulCreatePages": true }
+  }
+}

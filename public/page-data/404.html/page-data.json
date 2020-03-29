@@ -1,0 +1,9 @@
+{
+  "componentChunkName": "component---src-pages-404-js",
+  "path": "/404.html",
+  "webpackCompilationHash": "",
+  "result": {
+    "data": { "site": { "siteMetadata": { "title": "Clark Sell" } } },
+    "pageContext": { "isCreatedByStatefulCreatePages": true }
+  }
+}
