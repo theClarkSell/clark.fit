@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-london-after-midnight",
+  "name": "clark.fit",
   "private": true,
-  "description": "A custom, image-centric theme for Gatsby",
-  "version": "1.0.2",
-  "author": "Vaporwavy <i@ttv8.me> (https://vaporwavy.io)",
+  "description": "Clark's health journey.",
+  "version": "1.0.0",
+  "author": "Clark Sell",
   "bugs": {
-    "url": "https://github.com/vaporwavy/gatsby-london-after-midnight/issues"
+    "url": "https://github.com/csell5/clark.fit/issues"
   },
   "dependencies": {
     "gatsby": "^2.20.8",
@@ -47,7 +47,7 @@
     "prettier": "^1.19.1",
     "pretty-quick": "^1.10.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://clark.fit",
   "keywords": [
     "gatsby",
     "ghost",
@@ -59,7 +59,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaporwavy/gatsby-london-after-midnight.git"
+    "url": "git+https://github.com/csell5/clark.fit.git"
   },
   "scripts": {
     "build": "gatsby build",
