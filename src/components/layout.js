@@ -39,6 +39,9 @@ const Layout = props => {
               {title}
             </Link>
           </div>
+          <div className="site-head-center">
+            <div>asdfasdf</div>
+          </div>
           <div className="site-head-right">
             <div className="social-links">
               <a
